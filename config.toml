@@ -1,0 +1,6 @@
+baseurl = "https://khanhlq.github.io/khanhlq/"
+languageCode = "en-us"
+title = "KhanhLQ Book Reviews"
+
+[Params]
+  Author = "KhanhLQ"
